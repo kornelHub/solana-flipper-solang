@@ -1,4 +1,9 @@
 {
+  "scripts" :
+  { 
+    "flipper": "node flipper.js",
+    "flip_call": "node flip_call.js"
+  },
   "dependencies": {
     "@solana/solidity": "^0.0.20"
   }
